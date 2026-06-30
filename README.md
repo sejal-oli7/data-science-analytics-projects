@@ -10,7 +10,7 @@ Projects Included
 - Visualization of sales trends and patterns
 - Extracting business insights from cafe sales data
 
-### 2. King County House Sales Analysis
+ 2. King County House Sales Analysis
 - Real estate dataset analysis
 - Data preprocessing and feature exploration
 - Statistical analysis
